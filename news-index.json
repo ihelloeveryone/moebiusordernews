@@ -9,6 +9,15 @@
       "author": "Happy Johns",
       "featured": true,
       "showOnHomepage": true
+    },{
+      "id": "news-001",
+      "slug": "introducing-moebius-order",
+      "title": "Introducing Moebius Order",
+      "summary": "An official introduction to Moebius Order, outlining its purpose as a creator-driven digital publishing organization focused on long-term creative systems and original universes.",
+      "publishedAt": "2026-01-27T10:30:00Z",
+      "author": "Happy Johns",
+      "featured": true,
+      "showOnHomepage": true
     }
   ]
 }
