@@ -1,0 +1,23 @@
+{
+  "id": "news-001",
+  "slug": "introducing-moebius-order",
+  "status": "published",
+
+  "title": "Introducing Moebius Order",
+
+  "content": "Moebius Order is established as a creator-driven digital publishing organization dedicated to the development of original worlds, connected universes, and long-term creative projects across multiple mediums.\n\nThe organization is structured to support continuity, coherence, and creative integrity over time. Rather than treating creative works as isolated outputs, Moebius Order approaches publishing as a system—one that allows stories, interactive experiences, and visual media to evolve within unified frameworks.\n\nThis introduction marks the formal beginning of Moebius Order’s public presence. Future updates will outline publishing initiatives, flagship projects, and ongoing developments as the organization expands its creative ecosystem.",
+
+  "author": {
+    "name": "Happy Johns",
+    "role": "Editorial"
+  },
+
+  "publishedAt": "2026-01-27T10:30:00Z",
+
+  "seo": {
+    "title": "Introducing Moebius Order — Official Announcement",
+    "description": "An official introduction to Moebius Order, a creator-driven digital publishing organization focused on original worlds, connected universes, and long-term creative systems."
+  },
+
+  "type": "announcement"
+}
