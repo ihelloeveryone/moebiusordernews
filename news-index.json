@@ -18,7 +18,7 @@
       "publishedAt": "2026-02-01T09:00:00Z",
       "author": "Happy Johns",
       "featured": false,
-      "showOnHomepage": true
+      "showOnHomepage": false
     }
   ]
 }
